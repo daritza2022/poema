@@ -1,0 +1,28 @@
+body{
+	background: #fff0f5;
+	color: #afeeee;
+	border: 8px solid;
+	border-color: #ffdead;
+	font-size: 25px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+p{
+	margin-left: 140px;
+	margin-right: 140px;
+	text-align: justify;
+}
+
+h2{
+margin-left: 40px;
+
+}
+
+img{
+	border-radius: 80px;
+}
+ul li{
+	margin-left: 80px;
+	margin-right: 80px;
+}
